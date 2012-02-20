@@ -60,7 +60,7 @@ if you want refer to parent object, use "_parent".
      MATSU Hiroshi was sleeping at the night.
      MATSU Hiroshi was meeting at the morning.
 
-### {%?condvar}...{condvar%}
+### {%?condvar}...{?condvar%}
 
 create conditional block. `condvar' must be corresponding to a field in 
 data source. if the field evaluated as true, this block shown.
